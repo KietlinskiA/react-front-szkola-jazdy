@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\css",
+    "\\src\\components",
+    "\\src\\components\\Footer",
+    "\\src\\components\\Navbars",
+    "\\src\\components\\Sidebar",
+    "\\src\\layouts",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\components\\Navbars\\AdminNavbar.js",
+  "PreviewInSolutionExplorer": false
+}
